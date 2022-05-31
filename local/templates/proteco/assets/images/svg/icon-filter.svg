@@ -1,0 +1,9 @@
+<svg width="24" height="20" viewBox="0 0 24 20" fill="none"
+    xmlns="http://www.w3.org/2000/svg">
+    <circle cx="7" cy="6" r="2" stroke="var(--icon-color, #006484)" stroke-width="var(--icon-stroke-width, 2)"/>
+    <path d="M12 6H23" stroke="var(--icon-color, #006484)" stroke-width="var(--icon-stroke-width, 2)" stroke-linecap="round"/>
+    <path d="M1 6L2 6" stroke="var(--icon-color, #006484)" stroke-width="var(--icon-stroke-width, 2)" stroke-linecap="round"/>
+    <circle cx="17" cy="14" r="2" stroke="var(--icon-color, #006484)" stroke-width="var(--icon-stroke-width, 2)"/>
+    <path d="M1 14H12" stroke="var(--icon-color, #006484)" stroke-width="var(--icon-stroke-width, 2)" stroke-linecap="round"/>
+    <path d="M22 14L23 14" stroke="var(--icon-color, #006484)" stroke-width="var(--icon-stroke-width, 2)" stroke-linecap="round"/>
+</svg>
